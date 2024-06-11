@@ -14,6 +14,7 @@
 
 
 **Opis projektu**
+
 Projekt "Zarządzanie książkami" to graficzny system do zarządzania książkami, który pozwala na:
  - Wyszukiwanie książek
  - Sortowanie książek według różnych kryteriów (tytuł, autor, rok wydania, gatunek)
@@ -21,8 +22,6 @@ Projekt "Zarządzanie książkami" to graficzny system do zarządzania książka
  - Usuwanie książek
  - Wyświetlanie informacji o książkach
 
-
-Aplikacja zawiera wbudowaną bazę książek (minimum 25).
 
 **Instrukcja obsługi**
 
